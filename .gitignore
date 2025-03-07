@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Plugins/AdvancedSessions-5-5/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSessions/AdvancedSessions.uplugin
+/Plugins/AdvancedSessions-5-5/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSessions/.gitignore
+/Plugins/AdvancedSessions-5-5/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private
+AdvancedSessionsPlugin
